@@ -6,3 +6,6 @@ To use the program, just download the installer.bat, put it in a folder that you
 
 # Compatibility
 It supports windows devices. It should support any versions with access to Windows Powershell and the internet. I have tested it recently on Windows 10, and I think that I tested on Windows 7 awhile ago but I cannot remember.
+
+# Support
+I will not be supporting this program anymore and I have not been since I started it (around 2-4 years ago). If I was to continue this program, I would recode it in a cross platform language such as python, and I would tidy up the code.
