@@ -12,10 +12,11 @@ ECHO            ....   .   ..   .    .
 ECHO                   .    .   .    .
 ECHO                             ....
 color E
-ECHO         Made by Elgiad Newo
+ECHO         Made by TheRuntingMuumuu
 ECHO(
 ECHO(
 ECHO This will make a folder called Menu inside the folder of this file, and then it will install the program in that folder.
+ECHO Please wait...
 timeout 8
 
 mkdir Menu
@@ -42,7 +43,7 @@ ECHO            ....   .   ..   .    .
 ECHO                   .    .   .    .
 ECHO                             ....
 color E
-ECHO         Made by Elgiad Newo
+ECHO         Made by TheRuntingMuumuu
 ECHO(
 ECHO(
 
@@ -71,7 +72,7 @@ ECHO            ....   .   ..   .    .
 ECHO                   .    .   .    .
 ECHO                             ....
 color E
-ECHO         Made by Elgiad Newo
+ECHO         Made by TheRuntingMuumuu
 ECHO(
 ECHO(
 
@@ -99,7 +100,7 @@ ECHO            ....   .   ..   .    .
 ECHO                   .    .   .    .
 ECHO                             ....
 color E
-ECHO         Made by Elgiad Newo
+ECHO         Made by TheRuntingMuumuu
 ECHO(
 ECHO(
 
@@ -124,7 +125,7 @@ ECHO            ....   .   ..   .    .
 ECHO                   .    .   .    .
 ECHO                             ....
 color E
-ECHO         Made by Elgiad Newo
+ECHO         Made by TheRuntingMuumuu
 ECHO(
 ECHO(
 
@@ -152,7 +153,7 @@ ECHO            ....   .   ..   .    .
 ECHO                   .    .   .    .
 ECHO                             ....
 color E
-ECHO         Made by Elgiad Newo
+ECHO         Made by TheRuntingMuumuu
 ECHO(
 ECHO(
 
@@ -180,7 +181,7 @@ ECHO            ....   .   ..   .    .
 ECHO                   .    .   .    .
 ECHO                             ....
 color E
-ECHO         Made by Elgiad Newo
+ECHO         Made by TheRuntingMuumuu
 ECHO(
 ECHO(
 
@@ -208,7 +209,7 @@ ECHO            ....   .   ..   .    .
 ECHO                   .    .   .    .
 ECHO                             ....
 color E
-ECHO         Made by Elgiad Newo
+ECHO         Made by TheRuntingMuumuu
 ECHO(
 ECHO(
 
