@@ -1,8 +1,3 @@
-
-
-
-
-
 ECHO OFF
 CLS
 Title MENU
